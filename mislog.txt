@@ -1,0 +1,11 @@
+commit e9525643351b4702df769ce6da350fa9c8a1435d
+Author: Gordoa <carlon_gordoa@hotmail.com>
+Date:   Thu Feb 8 12:26:09 2018 -0700
+
+    primer commit
+
+commit 491a79e3aaad90343d578108d3f99c72603707bd
+Author: CCDM04 <ccdm04@iMac-2.local>
+Date:   Thu Feb 8 12:13:59 2018 -0700
+
+    jejej
