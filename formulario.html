@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>
+			Formularios
+		</title>
+	</head>
+
+	<body>
+		Formulario:Contenedor que sirve para encapsular
+		los metodos de entrada de datos de usuario <br>
+		En el formulario se puede <br>
+		<ol>
+			<li> Capturar Datos</li>
+			<li>Validar lo que se ingresa</li>
+			<li>Enviar a proceso</li>
+			<li>Reiiciar la captura</li>
+		</ol>
+
+		<form action="procesa.html" method="get">
+		<!-- <form action="procesa.html" method="post">  para que no se vea la URL-->
+			<input name="txtLetras" type="text" placeholder="tu corazon" required="required"><br>
+			<input name="txtClave" type="password" placeholder=" corazon" autofocus=""><br>
+			<input name="txtPromedio" type="number" placeholder="Promedio" ><br>
+			<input name="txtFecha" type="date" ><br>
+			<input name="txtColor" type="color"><br>
+			<input name="txtCorreo" type="email" ><br>
+			<input name="txtBuscar" type="search"><br>
+			<input type="submit" value="Enviar">
+			<input type="reset" value="borrar">
+			<input type="button" value="Enviar">
+		</form>
+	</body>
+</html>
